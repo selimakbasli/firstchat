@@ -1,0 +1,14 @@
+{
+  "name": "firstchat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "selimakbasli <95687654+selimakbasli@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/selimakbasli/firstchat"
+}
