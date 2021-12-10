@@ -10,5 +10,8 @@
     "chat",
     "nodejs"
   ],
-  "homepage": "https://github.com/selimakbasli/firstchat"
+  "homepage": "https://github.com/selimakbasli/firstchat",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
 }
